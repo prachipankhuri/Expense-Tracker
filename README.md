@@ -18,7 +18,7 @@ A **simple yet powerful expense tracker** built using Python. This project helps
 - 🗑️ Allows deleting a specific expense (by date & category)
 - 📂 Lists available categories while adding new entries
 - 🔒 Validates incorrect data entries (amount/date format)
-- 🔄 Clean, readable, and reusable code structure
+- 🔄 Clean, readable, and reusable code structur
 
 ---
 
