@@ -33,5 +33,5 @@ A **simple yet powerful expense tracker** built using Python. This project helps
 
 ---
 
-## 📁 File Structure
+## 📁 File Structur
 
